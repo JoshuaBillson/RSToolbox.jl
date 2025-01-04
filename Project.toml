@@ -28,7 +28,7 @@ RemoteSensingToolboxMakieExt = "CairoMakie"
 [compat]
 ArchGDAL = "0.10"
 Bijections = "0.1"
-CairoMakie = "0.13"
+CairoMakie = "0.12"
 DataFrames = "1"
 DocStringExtensions = "0.9"
 ImageCore = "0.8, 0.9, 0.10"
